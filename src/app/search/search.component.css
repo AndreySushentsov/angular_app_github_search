@@ -1,0 +1,15 @@
+.search{
+  width: 80%;
+  margin: 0 auto;
+  margin-top: 50px;
+}
+.search h1{
+  margin-bottom: 30px;
+}
+.mat-form-field{
+  width: 100%;
+}
+.mat-card{
+  width: 30%;
+  margin: 0 auto;
+}
